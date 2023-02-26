@@ -6,7 +6,7 @@ Move: WSAD;
 Aim: Mouse;
 Attack: Left click;
 Teleport: Space;
-Long-tp: Shift + Space;
+Long-tp: Shift+Space;
 
 Hit the enemies on their Weakpoints with your sword to get points
 
