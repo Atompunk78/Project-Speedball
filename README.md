@@ -8,8 +8,8 @@ Attack: Left click;
 Teleport: Space;
 Long-tp: Shift+Space;
 
-Hit the enemies on their Weakpoints with your sword to get points
+Hit the enemies on their Weakpoints with your sword to gain points
 
-Toggle the teleport guide on and off from the top-left of the main menu
+Toggle the easy mode and teleport guide guide on and off from the top-left of the main menu
 
 Good luck and have fun :)
